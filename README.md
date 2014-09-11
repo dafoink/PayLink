@@ -15,6 +15,16 @@ Who Benifit From PayLink
 1. Web Developers who create payment applications for ERP/CRM.
 2. Mobile Developers who create payment apps.
 
+Configurations
+=======
+
+Before you start with PayLink, you are merchant and must register a PayFabric account. You can visit [PayFabric]() to learn more how to work with PayFabric. Once you get ready, PayLink service requires some more configurations as below:
+
+* [How to Notify Customers]()
+* [Customize Notify Email]()
+* [Customize Payment Response]()
+
+
 APIs
 =======
 
