@@ -1,7 +1,7 @@
 PayLink Overview
 =======
 
-PayLink is part of PayFabric Service consists of several API calls. The basic business scenario of PayLink is as below:
+PayLink is part of PayFabric Service consists of several API calls. The below steps are a classic workflow that work with PayLink Service:
 
 1. Merchant is ready to collect credit card payment from his/her customer.
 2. Merchant populate a new "PayLink" by calling api "POST /api/document".
@@ -28,11 +28,11 @@ Before you start with PayLink, you are merchant and must register a PayFabric ac
 APIs
 =======
 
-* [Generate a new PayLink]()
-* [Update PayLink]()
-* [Delete PayLink]()
-* [Resend Email]()
-* [Resend Sms]()
-* [Search by oData Query]()
+* [Generate a new PayLink](https://github.com/PayFabric/PayLink/wiki#generate-a-new-paylink)
+* [Update PayLink](https://github.com/PayFabric/PayLink/wiki#update-paylink)
+* [Delete PayLink](https://github.com/PayFabric/PayLink/wiki#delete-paylink)
+* [Resend Email](https://github.com/PayFabric/PayLink/wiki#resend-email)
+* [Resend Sms](https://github.com/PayFabric/PayLink/wiki#resend-sms)
+* [Search by oData Query](https://github.com/PayFabric/PayLink/wiki#search-by-odata-query)
 
 
