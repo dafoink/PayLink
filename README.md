@@ -20,8 +20,8 @@ Configurations
 
 Before you start with PayLink, you are merchant and must register a PayFabric account. You can visit [PayFabric]() to learn more how to work with PayFabric. Once you get ready, PayLink service requires some more configurations as below:
 
-* [How to Notify Customers]()
-* [Customize Notify Email]()
+* [How to Notify Customers](https://github.com/PayFabric/PayLink/wiki#turn-on-emailsms)
+* [Customize Notify Email](https://github.com/PayFabric/PayLink/wiki#notification-email-template)
 * [Customize Payment Response]()
 
 
