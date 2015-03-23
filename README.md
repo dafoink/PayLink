@@ -30,6 +30,11 @@ APIs
 
 * [Generate a new PayLink](https://github.com/PayFabric/PayLink/wiki#generate-a-new-paylink)
 * [Update PayLink](https://github.com/PayFabric/PayLink/wiki#update-paylink)
+* [Get SMS Notification Templates](https://github.com/PayFabric/PayLink/wiki#Get-SMS-Notification-Templates)
+* [Get PayLink](https://github.com/PayFabric/PayLink/wiki#get-paylink)
+* [Cancel PayLink](https://github.com/PayFabric/PayLink/wiki#cancel-paylink)
+* [Get All Documents](https://github.com/PayFabric/PayLink/wiki#Get-All-Documents)
+* [Get Specified Document](https://github.com/PayFabric/PayLink/wiki#Get-Specified-Document)
 * [Delete PayLink](https://github.com/PayFabric/PayLink/wiki#delete-paylink)
 * [Resend Email](https://github.com/PayFabric/PayLink/wiki#resend-email)
 * [Resend Sms](https://github.com/PayFabric/PayLink/wiki#resend-sms)
