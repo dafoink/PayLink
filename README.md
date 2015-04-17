@@ -40,4 +40,9 @@ APIs
 * [Resend Sms](https://github.com/PayFabric/PayLink/wiki#resend-sms)
 * [Search by oData Query](https://github.com/PayFabric/PayLink/wiki#search-by-odata-query)
 
+Post XML Object
+=======
+PaymentLine Object
+CashReceipt Object
+
 
