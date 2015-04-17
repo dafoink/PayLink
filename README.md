@@ -42,7 +42,7 @@ APIs
 
 Post XML Object
 =======
-* [PaymentLine Object](https://github.com/PayFabric/PayLink/wiki#generate-a-new-paylink)
-* [CashReceipt Object](https://github.com/PayFabric/PayLink/wiki#generate-a-new-paylink)
+* [PaymentLine Object](https://github.com/PayFabric/PayLink/wiki#payment-line-object)
+* [CashReceipt Object](https://github.com/PayFabric/PayLink/wiki#cash-receipt-object)
 
 
